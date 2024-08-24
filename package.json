@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "get-git-version": "^0.5.4",
+    "git": "^0.1.5"
+  }
+}
